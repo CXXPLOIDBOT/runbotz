@@ -1,0 +1,24 @@
+{
+    "ownerNumber": "6282279915237@s.whatsapp.net",
+    "ownerName": "Lex4You",
+    "limitCount": 30,
+    "gamewaktu": 60,
+    "botName": "Alpha Bot",
+    "pathImg": "./media/Itsuki.jpg",
+    "apikey": "YOUR_APIKEY",
+    "fake": "ALPHA-BOTZ VERIFIED",
+    "sesidInsta": "default",
+    "sessionName": "aqulzz",
+    "txtDonasi": "Dana : 082279915237\nOvo : 085789004732\nPulsa : 082279915237",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
