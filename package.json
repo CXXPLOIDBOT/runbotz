@@ -29,10 +29,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xinz-Team/XinzBot.git"
+    "url": "git+https://github.com/Lexxy24/runbot.git"
   },
   "bugs": {
-    "url": "https://github.com/Xinz-Team/XinzBot/issues"
+    "url": "https://github.com/Lexxy24/runbott/issues"
   },
-  "homepage": "https://github.com/Xinz-Team/XinzBot#readme"
+  "homepage": "https://github.com/Lexxy24/runbot#readme"
 }
